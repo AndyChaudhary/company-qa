@@ -5,7 +5,7 @@ Enter a company domain (for example, retool.com). The app pulls the company's pr
 Built with: Next.js, Tailwind CSS (UI from v0), TypeScript, Crustdata API.
 
 Repo: https://github.com/AndyChaudhary/company-qa
-Demo: [paste your demo video link]
+Demo: https://drive.google.com/file/d/1U2KEsgKx60uuO1kZtj-PiD73DGDkaUSh/view?usp=drivesdk
 
 Setup: clone the repo, run pnpm install, add CRUSTDATA_API_KEY to a local .env file, then run pnpm dev.
 
